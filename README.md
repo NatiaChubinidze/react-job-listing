@@ -2,7 +2,7 @@
 
 This is the jobs listing project:
 
-<img src="public/screen.png" />
+![Screenshot](public/screen.png)
 
 ## Usage
 
